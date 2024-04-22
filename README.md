@@ -1,2 +1,2 @@
 # Lar-Dos-Exoticos
- TCC
+ TCC: Lar dos Exóticos – A Plataforma Web para Adoção de Animais Não Convencionais
