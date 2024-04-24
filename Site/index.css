@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: #3E3E3E;
+    font-family: arial, helvetica, sans-serif
+    
+    
+
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 20x;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
