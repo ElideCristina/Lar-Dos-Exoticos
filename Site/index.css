@@ -175,24 +175,35 @@ nav{
     border-bottom-right-radius: 16px;
 }
 
-.footer{
-    background-color: #ffffff;
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: #222222;
-    margin-top: 20px;
-    padding-top: 40px;
+    padding: 40px;
     text-align: left;
     bottom: 0;
     width: 100%;
+    margin-top: 45px;
 }
-.footer a{
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+}
+
+.footer-content a{
     color: #222222;
 }
 
 .direitos-autorais{
-    margin: 16px;
+    margin-top: 16px;
     font-size: 12px;
-    text-align: right;
+    text-align: center;
+    bottom: 0;
     line-height: 14px;
     font-weight: 400;
-    font-family: 'roboto', sans-serif,   
+    font-family: 'roboto', sans-serif,
 }
